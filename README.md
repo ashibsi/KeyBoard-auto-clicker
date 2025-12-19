@@ -1,20 +1,13 @@
-⌨️ Keyboard Auto Clicker
 
 A simple global keyboard auto-press tool built with Python.
 Automatically presses a selected key at a fixed interval in any desktop application.
 
 ✨ Features
-
 -Global key auto-press
-
 -Popup UI to select key & delay
-
 -F11 → Start / Stop
-
 -Esc → Exit
-
 -Saves last settings
-
 -EXE support
 
 
@@ -25,7 +18,6 @@ python Auto_clicker.py
 ```
 
 Run as Administrator
-
 
 📦 Create EXE
 ```python

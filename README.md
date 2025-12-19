@@ -5,17 +5,18 @@ Automatically presses a selected key at a fixed interval in any desktop applicat
 
 ✨ Features
 
-Global key auto-press
+-Global key auto-press
 
-Popup UI to select key & delay
+-Popup UI to select key & delay
 
-F11 → Start / Stop
+-F11 → Start / Stop
 
-Esc → Exit
+-Esc → Exit
 
-Saves last settings
+-Saves last settings
 
-EXE support
+-EXE support
+
 
 ▶️ Run (Python)
 ```python
@@ -24,6 +25,7 @@ python Auto_clicker.py
 ```
 
 Run as Administrator
+
 
 📦 Create EXE
 ```python

@@ -4,10 +4,15 @@ Automatically presses a selected key at a fixed interval in any desktop applicat
 
 ✨ Features
 -Global key auto-press
+
 -Popup UI to select key & delay
+
 -F11 → Start / Stop
+
 -Esc → Exit
+
 -Saves last settings
+
 -EXE support
 
 
